@@ -1,3 +1,5 @@
+#config for plotting. note the highlights for special bursts
+
 import pandas as pd
 import numpy as np
 

@@ -1,3 +1,5 @@
+'''Most of this should be covered in the notebook'''
+
 import pandas as pd
 import os
 from astropy.utils.data import download_file
