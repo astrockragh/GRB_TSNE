@@ -1,5 +1,5 @@
 # GRB_TSNE
-Using t-SNE to classify GRBs from the Swift catalogue. 
+Using t-SNE to classify GRBs from the Swift catalogue as in Jespersen et al 2020, https://ui.adsabs.harvard.edu/abs/2020ApJ...896L..20J/abstract 
 
 The code is built up by modules so that each could be replaced with another procedure and not have to redo the rest if someone wants to take that on. 
 
